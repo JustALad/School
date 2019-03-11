@@ -1,0 +1,15 @@
+td, th{ border: thin solid black}
+table { border: thin solid black;}
+tr:first-child{font-size: 2em; font-family: Helvetica, Arial, sans-serif;}
+.winner {font-size: 2em; font-family: monospace;}
+.red {color : red }
+.yellow {color : yellow}
+.green {color : green}
+.navy {color : navy}
+.violet {color : violet}
+.blue {color : blue}
+.gold {color : gold}
+.brown {color : brown}
+.orange {color: orange}
+.burgundy {color: #800020}
+caption {font-size: 2.1em; font-family: monospace;}
